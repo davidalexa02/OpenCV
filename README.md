@@ -6,7 +6,7 @@ Welcome to my OpenCV portfolio! This repository showcases various projects devel
 
 OpenCV is a powerful library for computer vision and image processing tasks. In this portfolio, I demonstrate my skills and creativity through projects that leverage OpenCV's capabilities.
 
-## Projects
+## Main and Final Project of all
 
 ### Snapchat Mask Filter Prototype
 
